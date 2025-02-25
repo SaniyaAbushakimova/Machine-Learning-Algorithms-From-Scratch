@@ -10,7 +10,7 @@ Each folder contains:
 ## Implemented Algorithms and Projects
 
 ### GMM-and-HMM-with-Expectation-Maximization
-Gaussian Mixture Models (GMM) and Hidden Markov Models (HMM) using the EM Algorithm.
+Gaussian Mixture Models (GMM) and Hidden Markov Models (HMM) using the EM Algorithm. \
 Project completed on October 20, 2024.
 
 * Implemented Expectation-Maximization (EM) from scratch to fit GMMs for clustering and density estimation.
@@ -18,7 +18,7 @@ Project completed on October 20, 2024.
 * Applied the models to sequence modeling and probabilistic clustering.
 
 ### KNN-and-Bayes-Classification
-Comparing k-Nearest Neighbors (kNN) and Bayes Rule for Classification.
+Comparing k-Nearest Neighbors (kNN) and Bayes Rule for Classification. \
 Project completed on September 6, 2024.
 
 * Implemented custom kNN classifier with cross-validation for hyperparameter selection.
@@ -26,7 +26,7 @@ Project completed on September 6, 2024.
 * Conducted a simulation study to compare kNN and Bayes decision rules in different distributions.
 
 ### LOESS-RidgelessRegression-NCS
-Nonparametric Regression and Overfitting in High-Dimensional Models.
+Nonparametric Regression and Overfitting in High-Dimensional Models. \
 Project completed on September 30, 2024.
 
 * Implemented LOESS (Locally Weighted Scatterplot Smoothing) for nonlinear regression.
@@ -34,7 +34,7 @@ Project completed on September 30, 2024.
 * Used Natural Cubic Splines (NCS) for time series smoothing and feature extraction.
 
 ### Lasso-with-Coordinate-Descent
-Sparse Regression with L1 Regularization.
+Sparse Regression with L1 Regularization. \
 Project completed on September 18, 2024.
 
 * Implemented Lasso Regression from scratch using the Coordinate Descent algorithm.
@@ -42,7 +42,7 @@ Project completed on September 18, 2024.
 * Analyzed model sparsity and feature selection using simulated datasets.
 
 ### SVM-with-Pegasos-Algorithm
-Support Vector Machines (SVM) using a Specialized SGD Method.
+Support Vector Machines (SVM) using a Specialized SGD Method. \
 Project completed on November 12, 2024.
 
 * Developed Support Vector Machines (SVM) from scratch, solving the primal form directly.
