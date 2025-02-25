@@ -3,7 +3,7 @@
 This repository contains implementations of various **Machine Learning and Statistical Learning algorithms from scratch**, developed as part of the **Practical Statistical Learning** course. Each project focuses on building models without relying on high-level machine learning libraries, providing deeper insights into their mathematical foundations and optimizations.
 
 Each folder contains:
-* ipynb files with implementation (Python);
+* `ipynb` files with implementation (Python);
 * Corresponding datasets;
 * Instructions on implementation details.
 
