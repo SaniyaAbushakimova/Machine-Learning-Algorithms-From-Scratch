@@ -11,6 +11,7 @@ Each folder contains:
 
 ### 1. GMM-and-HMM-with-Expectation-Maximization
 Gaussian Mixture Models (GMM) and Hidden Markov Models (HMM) using the EM Algorithm. \
+
 Project completed on October 20, 2024.
 
 * Implemented Expectation-Maximization (EM) from scratch to fit GMMs for clustering and density estimation.
@@ -19,6 +20,7 @@ Project completed on October 20, 2024.
 
 ### 2. KNN-and-Bayes-Classification
 Comparing k-Nearest Neighbors (kNN) and Bayes Rule for Classification. \
+
 Project completed on September 6, 2024.
 
 * Implemented custom kNN classifier with cross-validation for hyperparameter selection.
@@ -27,6 +29,7 @@ Project completed on September 6, 2024.
 
 ### 3. LOESS-RidgelessRegression-NCS
 Nonparametric Regression and Overfitting in High-Dimensional Models. \
+
 Project completed on September 30, 2024.
 
 * Implemented LOESS (Locally Weighted Scatterplot Smoothing) for nonlinear regression.
@@ -35,6 +38,7 @@ Project completed on September 30, 2024.
 
 ### 4. Lasso-with-Coordinate-Descent
 Sparse Regression with L1 Regularization. \
+
 Project completed on September 18, 2024.
 
 * Implemented Lasso Regression from scratch using the Coordinate Descent algorithm.
