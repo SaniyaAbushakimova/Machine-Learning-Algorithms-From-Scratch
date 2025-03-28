@@ -53,3 +53,10 @@ Project completed on November 12, 2024.
 * Developed Support Vector Machines (SVM) from scratch, solving the primal form directly.
 * Implemented Pegasos Algorithm (Primal Estimated sub-GrAdient SOlver for SVM), a variation of Stochastic Gradient Descent (SGD) optimized for large-scale datasets.
 * Applied the model to binary classification tasks on MNIST subsets and evaluated generalization performance.
+
+### 6. Linear Classifiers: Perceptron, SVM, Softmax, Logistic Regression
+
+Project completed on February 20, 2025.
+
+* Implemented Perceptron, SVM, Softmax, and Logistic Regression classifiers from scratch in Python and applied them to the **Rice** and **Fashion-MNIST** datasets.
+* Focused on understanding core concepts of linear classification, hyperparameter tuning, and performance evaluation using training/validation/test splits.
